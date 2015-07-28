@@ -7,6 +7,7 @@
 //
 
 #import "AppDelegate.h"
+#import "NSUserDefaults+CantTalkSettings.h"
 
 @interface AppDelegate ()
 
@@ -16,6 +17,10 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+    
+    [[UIView appearance] setTintColor:[UIColor colorWithRed:69.0f/255.0f green:216.0f/255.0f blue:93.0f/255.0f alpha:1.0]];
+    // Load our default settings
+    
     // Override point for customization after application launch.
     return YES;
 }

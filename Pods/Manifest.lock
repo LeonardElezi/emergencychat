@@ -1,0 +1,25 @@
+PODS:
+  - ACEExpandableTextCell (1.0.3):
+    - SZTextView
+  - CNPPopupController (0.2.1)
+  - CZPicker (0.3.5)
+  - JSQMessagesViewController (7.1.0):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - SZTextView (1.2.1)
+
+DEPENDENCIES:
+  - ACEExpandableTextCell
+  - CNPPopupController
+  - CZPicker
+  - JSQMessagesViewController
+
+SPEC CHECKSUMS:
+  ACEExpandableTextCell: 5fadb1461c7f48b8d97e1d5257eeff5c1ec93a0f
+  CNPPopupController: 4dcb4e5a70beb0ffcfe425cf462c3e808d3f2aa3
+  CZPicker: ce4f352d65ef5ccb8d7378afe3ee4e5bdbead15a
+  JSQMessagesViewController: ca11f86fa68ca70835f05e169df9244147c1dc40
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  SZTextView: 906df45afd3c1b24fc5252088d5ef8061513c238
+
+COCOAPODS: 0.37.2
